@@ -10,6 +10,6 @@ What is a reflection token? Reflection tokens tax every transaction and redistri
 
 Hold BabyGeist and receive a portion of 7% of every transaction in Geist.
 
-2% of every transaction is saved to a marketing budget that will be used to increase project awareness across several mediums and build the community. 
+2% of every transaction is saved to a marketing budget that will be used to increase project awareness across several mediums and build the community.
 
-Deepening liquidity is important to assure buyers and sellers can sell with minimal price impact. BabyGeist's liquidity grows naturally with every transaction. Liquidity growth will also be encouraged via farms.
+Deepening liquidity is important to assure buyers and sellers can sell with minimal price impact. BabyGeist's liquidity grows naturally with every transaction.

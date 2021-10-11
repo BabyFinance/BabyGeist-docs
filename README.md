@@ -6,7 +6,7 @@ description: Buy and hold BabyGeist - earn Geist. It's that simple!
 
 ### Welcome!
 
-BabyGeist is a reflection token that utilizes transaction fees to buy and redistribute Geist to its holders. BabyGeist runs on the Fantom Opera Network. If you are new to the Fantom Opera Network, see the “New to Fantom?” page for community resources. A percentage of every transaction involving the bGeist token goes towards deepening liquidity. BabyGeist also offers farms to encourage further LP growth.
+BabyGeist is a reflection token that utilizes transaction fees to buy and redistribute Geist to its holders. BabyGeist runs on the Fantom Opera Network. If you are new to the Fantom Opera Network, see the “New to Fantom?” page for community resources. A percentage of every transaction involving the bGeist token goes towards deepening liquidity. 
 
 ### Join our community!
 
@@ -18,7 +18,7 @@ Telegram: [http://t.me/babygeist](http://t.me/babygeist)
 
 TikTok: [https://www.tiktok.com/@baby_geist](https://www.tiktok.com/@baby_geist?lang=en)
 
-###  Developer Resources
+### Developer Resources
 
 FTMScan: [https://ftmscan.com/address/0x727465B34ee5C2f4a2b55083A326b3634d2Da6b0](https://ftmscan.com/address/0x727465B34ee5C2f4a2b55083A326b3634d2Da6b0#code)
 
