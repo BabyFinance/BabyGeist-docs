@@ -17,9 +17,3 @@ Twitter: [https://twitter.com/BabyGeistFTM](https://twitter.com/BabyGeistFTM)
 Telegram: [http://t.me/babygeist](http://t.me/babygeist)
 
 TikTok: [https://www.tiktok.com/@baby_geist](https://www.tiktok.com/@baby_geist?lang=en)
-
-### Developer Resources
-
-FTMScan: [https://ftmscan.com/address/0x727465B34ee5C2f4a2b55083A326b3634d2Da6b0](https://ftmscan.com/address/0x727465B34ee5C2f4a2b55083A326b3634d2Da6b0#code)
-
-GitHub: [https://github.com/BabyFinance](https://github.com/BabyFinance)
