@@ -3,6 +3,16 @@
 * [Introduction](README.md)
 * [Tokenomics](tokenomics.md)
 * [New to Fantom?](new-to-fantom.md)
+
+## BabyFinance <a href="baby-finance" id="baby-finance"></a>
+
+* [BabyFinance](baby-finance/baby-finance.md)
+* [BabyGeist Ghosty NFT Collection](baby-finance/babygeist-ghosty-nft-collection.md)
+* [NFT Staking](baby-finance/nft-staking.md)
+* [Giveaway NFT Collections](baby-finance/giveaway-nft-collections.md)
+
+***
+
 * [Contracts](contracts.md)
 
 ## Community

@@ -12,4 +12,4 @@ Hold BabyGeist and receive a portion of 7% of every transaction in Geist.
 
 2% of every transaction is saved to a marketing budget that will be used to increase project awareness across several mediums and build the community.
 
-Deepening liquidity is important to assure buyers and sellers can sell with minimal price impact. BabyGeist's liquidity grows naturally with every transaction.
+Deepening liquidity is important to ensure buyers and sellers can sell with minimal price impact. BabyGeist's liquidity grows naturally with every transaction. All liquidity pool (LP) tokens are sent to the burn address making them permanently inaccessible to everyone including the BabyGeist team. This will guarantee that any liquidity provided by transaction fees will never be removed.
