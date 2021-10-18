@@ -16,7 +16,7 @@ Staking NFTs will guarantee you a portion of future BabyFinance tokens’ initia
 
 #### Collection Weights:
 
-* Ghostly: 40x
+* Ghosty: 40x
 * BabyBoo Kittens: 15x
 * Elementals: 10x
 * Bruce The Goose: 5x
