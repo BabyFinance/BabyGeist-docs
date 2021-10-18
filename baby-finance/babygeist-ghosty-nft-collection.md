@@ -11,7 +11,7 @@ The 2nd NFT collection from BabyGeist will be the main event: 500 uniquely craft
 
 Minting will begin on **Halloween, 31st of October, at 10pm UTC.**
 
-Staking Ghosty NFTs gives you the highest multiplier of receiving future BabyFinance tokens, read more below.
+Staking Ghosty NFTs gives you the highest multiplier of receiving future BabyFinance tokens, read more [here](nft-staking.md).
 
 ### **Ghosty NFT Collection Features:**
 

@@ -2,7 +2,7 @@
 
 ### Why Mint a BabyGeist NFT?
 
-On the 31st of October, NFT Staking for BabyFinance will go live. You can read more about BabyFinance below.
+On the 31st of October, NFT Staking for BabyFinance will go live. You can read more about BabyFinance [here](broken-reference).
 
 #### Several NFT collections will eligible to stake:
 
@@ -12,7 +12,7 @@ On the 31st of October, NFT Staking for BabyFinance will go live. You can read m
 
 ![BabyBoo Kittens & Bruce The Goose](../.gitbook/assets/1\_D87FJGI1jVNljQKduknMfw.png)
 
-Staking NFTs allows guarantees you a portion of future BabyFinance tokens’ initial mint. The percentage you’ll receive is determined by the number of NFTs you’re staking, the length of time you have them staked, and the weight of the collection.
+Staking NFTs will guarantee you a portion of future BabyFinance tokens’ initial mint. The percentage you’ll receive is determined by the number of NFTs you’re staking, the length of time you have them staked, and the weight of the collection.
 
 #### Collection Weights:
 
@@ -20,6 +20,8 @@ Staking NFTs allows guarantees you a portion of future BabyFinance tokens’ ini
 * BabyBoo Kittens: 15x
 * Elementals: 10x
 * Bruce The Goose: 5x
+
+Future baby tokens will have a large portion of the initial distribution reserved for NFT stakers.  A vesting period will be in place when the time comes to claim your new tokens.
 
 More uses are planned for NFT collections supported by BabyFinance, and details will be released as they are ready.
 
